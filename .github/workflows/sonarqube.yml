@@ -1,4 +1,4 @@
-name: SonarQube Python Scan
+name: SonarQube Python Scan Test
 
 on:
   push:
